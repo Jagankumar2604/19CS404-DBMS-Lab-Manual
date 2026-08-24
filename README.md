@@ -28,7 +28,7 @@
          - Write the **SQL query** inside the code block
          - Paste a **screenshot or terminal output** below it
 3. Commit and push your changes.
-4. Create a pull request to the original repository
+4. Create a pull request to the original repository.
 
 ### ✅ Experiments List
 
